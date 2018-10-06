@@ -1,6 +1,9 @@
 **题目： Glamdring: Automatic Application Partitioning for Intel SGX**
+
 **作者： Joshua Lind, Christian Priebe, Divya Muthukumaran, Dan O'Keeffe, Pierre-Louis Aublin, Florian Kelbert, Tobias Reiher, David Goltzsche, David M. Eyers, Rüdiger Kapitza, Christof Fetzer, Peter R. Pietzuch**
+
 **单位： Imperial College London, TU Dresden, TU Braunschweig, University of Otago, TU Braunschweig**
+
 **出版： USENIX Annual Technical Conference 2017**
 
 
