@@ -54,7 +54,7 @@
 
 # 展望
 
-##关于结构：
+## 关于结构：
 * 未来是高度异构、分布式的网络组成，一台完整的物理节点上将运行多个内核程序。作者认为他们提出的multikernel会胜出。同时不看好per-application vm/container（请阅读文章[EbbRT: A Framework for Building Per-Application Library Operating Systems](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/schatzberg). OSDI 2016）。但他们都觉得微服务是未来的主流，这是软件工程学决定的。
 * 个人认识：不论是unikernel还是multikernel，都是从microkernel到exokernel的各种尝试，libOS已经是大家认可的一种OS的组成方式了。我认为现代全虚拟化中的VM内核也就是libOS，Dune其实是做了一次反向操作，把VM削弱为Process，剔除过多的I/O抽象和内核（系统服务转发给实际的底层内核），可以看成是最轻量级的Container。
 
