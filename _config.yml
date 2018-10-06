@@ -12,7 +12,7 @@ github_repo: "https://github.com/maxul/maxul.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Time is all I have!"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Maxul-Xiangshan.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
