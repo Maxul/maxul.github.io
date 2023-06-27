@@ -28,3 +28,11 @@
 让上链变快：想要易于交流的链，大家可以随时沟通，只是沟通后的东西需要过段时间才会被“持久化”。
 
 让验证变得简单：想要易于验证的链，不需要重头来。这点是可行的，就是将验证状态的检查点持久化，“前人栽树，后人乘凉”。
+
+# 最初的Abstract（乌托邦式）
+
+Today's internet is dominated by certain gatekeepers, such as search engines, social media platforms, news feeds, and more. Decentralization ensures that the communication nodes are not controlled by a monopoly of minority institutes, organizations, or governments.
+
+The emergence of a large number of decentralized applications and systems suggests an urgent need in this field. However, academia has not yet examined the trusted model in depth, especially in the context of decentralized systems. Previous approaches, such as sMPC or FHE, target applications with specific characteristics, and their ability to generalize is insufficient. Additionally, their performance overhead is relatively high, which hinders their practicality.
+
+We surveyed existing decentralized applications and found a popular misunderstanding of security issues and inadequate security assurances. Our goal is to present a general framework that ensures the application not only meets the need for decentralization but also incorporates the ideal security features. We reproduced these scenarios with the aid of our system to meet all security requirements at a reasonable cost. Our work contributes to returning the Internet to its original purpose as a democratic, autonomous environment.
