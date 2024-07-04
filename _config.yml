@@ -1,10 +1,10 @@
 # Site settings
-title: Maxul's Random Notes
+title: Maxul's Sketchnotes
 SEOTitle: Maxul Lee Blogs
 header-img: img/post-bg-westlake.png
 email: lmy2010lmy@gmail.com
 description: "Think Creatively."
-keyword: "Maxul, OS, kernel, system design and implementation, system security"
+keyword: "Maxul, OS, DB, systems design and implementation, system security"
 url: "maxul.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/maxul/maxul.github.io.git" # you code repository
